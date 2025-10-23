@@ -1,1 +1,4 @@
+Grupo: 2
 Integrante: Daniel Camacho
+Materia: Metodologia II
+Comision: 4B
