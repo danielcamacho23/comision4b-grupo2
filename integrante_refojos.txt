@@ -1,0 +1,4 @@
+grupo: 2
+comision: 4b
+materia: metodologia de sistemas 2
+alumno: gustavo refojos
